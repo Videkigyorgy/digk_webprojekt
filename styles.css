@@ -1,0 +1,13 @@
+ img {z-index: 0;
+
+}
+table, th, td  {
+    position: absolute;
+    left: 35%;
+    top: 20%;
+    background-color: grey;
+    opacity: 0.5;
+    border: 1px solid; color: purple;
+    z-index: 1;
+
+}
